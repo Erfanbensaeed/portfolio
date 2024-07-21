@@ -1,0 +1,15 @@
+.pic-me{
+    border-radius: 50%;
+}
+.gradient-color{
+    background: linear-gradient(to right, pink 10%, orange 60%, rgb(207, 34, 34) 95%);
+    margin: 0;
+    height: vh;
+}
+.bio{
+    margin-left: 2.5rem;
+}
+body{
+    background: linear-gradient(to right, pink 10%, orange 60%, rgb(207, 34, 34) 95%);
+
+}
