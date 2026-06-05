@@ -1,0 +1,57 @@
+{
+  "Navbar": {
+    "about": "About",
+    "education": "Education",
+    "experience": "Experience",
+    "projects": "Projects"
+  },
+  "Index": {
+    "title": "Erfan Bensaeed",
+    "subtitle": "Mechanical Engineer & Computational Simulation Specialist",
+    "description": "Master's student in Computational Methods in Engineering specializing in CFD, FEM, and DEM. Motivated to precisely model and optimize complex technical problems.",
+    "viewProjects": "View Projects",
+    "contactMe": "Download CV / Contact"
+  },
+  "About": {
+    "heading": "About Me",
+    "text": "I am currently pursuing my M.Sc. at Otto von Guericke University Magdeburg. My focus is on applying computational methods like CFD, FEM, and DEM to real-world engineering challenges. I am looking for a working student (Werkstudent) position or a Master's thesis opportunity to apply my theoretical knowledge in an industry setting.",
+    "skillsHeading": "Expertise & Tools",
+    "languagesHeading": "Languages",
+    "de": "German: B1 (Actively improving)",
+    "en": "English: C1",
+    "fa": "Persian: Native Speaker"
+  },
+  "Education": {
+    "heading": "Education",
+    "mscTitle": "M.Sc. Computational Methods in Engineering",
+    "mscUni": "Otto von Guericke University Magdeburg, Germany",
+    "mscDate": "2024 - Present",
+    "bscTitle": "B.Sc. Mechanical Engineering",
+    "bscUni": "Shahid Beheshti University, Iran",
+    "bscDate": "2019 - 2024"
+  },
+  "Experience": {
+    "heading": "Professional Experience",
+    "boardTitle": "Executive Board Member",
+    "boardCompany": "Shahid Beheshti University, Iran",
+    "boardDate": "01/2024 - 05/2024",
+    "boardDesc": "Organized specialist conferences and strategically coordinated expert panels.",
+    "researchTitle": "Research Lead",
+    "researchCompany": "Shahid Beheshti University, Iran",
+    "researchDate": "10/2022 - 10/2023",
+    "researchDesc": "Led technical research projects and managed the quality control of scientific publications.",
+    "internTitle": "Engineering Intern",
+    "internCompany": "Iranian Oil Pipeline & Telecommunications Company, Iran",
+    "internDate": "07/2022 - 09/2022",
+    "internDesc": "Handled technical documentation in valve technology and assisted in the maintenance of pipeline systems."
+  },
+  "Projects": {
+    "heading": "Featured Engineering Projects",
+    "p1Title": "Optimization of a Bulk Material Transfer Chute",
+    "p1Desc1": "Reduced impact forces by 67% through DEM simulation and design optimization of the rock-box geometry.",
+    "p1Desc2": "Improved mass distribution on the conveyor belt by 70% to eliminate material spillage.",
+    "p2Title": "Optimization of Solar Panel Mounts",
+    "p2Desc1": "Conducted static structural FE analysis to determine optimal clamping positions under wind and snow loads.",
+    "p2Desc2": "Successfully reduced maximum deflection and stress concentrations through strategic mount positioning."
+  }
+}

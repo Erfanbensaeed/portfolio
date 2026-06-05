@@ -1,0 +1,57 @@
+{
+  "Navbar": {
+    "about": "Über mich",
+    "education": "Bildungsweg",
+    "experience": "Berufserfahrung",
+    "projects": "Projekte"
+  },
+  "Index": {
+    "title": "Erfan Bensaeed",
+    "subtitle": "Maschinenbauingenieur & Spezialist für numerische Simulation",
+    "description": "Masterstudent im Bereich Computational Methods im Maschinenbau mit Fokus auf CFD, FEM und DEM. Motiviert, komplexe technische Probleme präzise zu modellieren und zu optimieren.",
+    "viewProjects": "Projekte ansehen",
+    "contactMe": "Lebenslauf / Kontakt"
+  },
+  "About": {
+    "heading": "Über mich",
+    "text": "Ich absolviere derzeit meinen Master an der Otto-von-Guericke-Universität Magdeburg. Mein Fokus liegt auf der Anwendung computergestützter Methoden wie CFD, FEM und DEM auf reale technische Herausforderungen. Ich suche eine Werkstudentenstelle oder eine Abschlussarbeit, um mein theoretisches Wissen praxisnah in der Industrie einzusetzen.",
+    "skillsHeading": "Expertise & Tools",
+    "languagesHeading": "Sprachen",
+    "de": "Deutsch: B1 (laufend verbessert)",
+    "en": "Englisch: C1",
+    "fa": "Persisch: Muttersprache"
+  },
+  "Education": {
+    "heading": "Bildungsaufstieg",
+    "mscTitle": "M.Sc. Computational Methods in Engineering",
+    "mscUni": "Otto-von-Guericke-Universität Magdeburg, Deutschland",
+    "mscDate": "2024 - Heute",
+    "bscTitle": "B.Sc. Maschinenbau",
+    "bscUni": "Shahid Beheshti Universität, Iran",
+    "bscDate": "2019 - 2024"
+  },
+  "Experience": {
+    "heading": "Berufserfahrung",
+    "boardTitle": "Mitglied des Hauptvorstandes",
+    "boardCompany": "Shahid Beheshti Universität, Iran",
+    "boardDate": "01/2024 - 05/2024",
+    "boardDesc": "Organisation von Fachkonferenzen und strategische Koordination von Expertengremien.",
+    "researchTitle": "Forschungsleiter",
+    "researchCompany": "Shahid Beheshti Universität, Iran",
+    "researchDate": "10/2022 - 10/2023",
+    "researchDesc": "Leitung technischer Forschungsprojekte und Qualitätsmanagement wissenschaftlicher Publikationen.",
+    "internTitle": "Praktikum",
+    "internCompany": "Iranian Oil Pipeline & Telecommunications Company, Iran",
+    "internDate": "07/2022 - 09/2022",
+    "internDesc": "Technische Dokumentation im Bereich Ventiltechnik und Unterstützung bei der Instandhaltung von Rohrleitungssystemen."
+  },
+  "Projects": {
+    "heading": "Ingenieurprojekte",
+    "p1Title": "Optimierung eines Schüttgut-Übergabeschachts",
+    "p1Desc1": "Reduzierung der Aufprallkräfte um 67% durch DEM-Simulation und Neukonstruktion der Rock-Box-Geometrie.",
+    "p1Desc2": "Verbesserung der Massenverteilung auf dem Fördergurt um 70% zur Vermeidung von Materialverlust.",
+    "p2Title": "Optimierung von Solarpanel-Halterungen",
+    "p2Desc1": "FE-Analyse: Durchführung einer statischen Strukturanalyse zur Ermittlung der optimalen Klemmpositionen unter Wind- und Schneelast.",
+    "p2Desc2": "Reduzierung der maximalen Durchbiegung und Spannungskonzentration durch strategische Positionierung der Halterungen."
+  }
+}
